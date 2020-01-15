@@ -103,7 +103,7 @@ a:hover {
 <div class='drama'><%= drama %></div>
 <a href='/'>Get more drama!</a> <br>
 <a href='/<%= version %>/<%= seed %>'>Permalink</a> <br><br>
-<a href='https://github.com/Gaelan/MCDrama'>GitHub</a> |
+<a href='https://github.com/4hrue2kd83f/MCDrama'>GitHub</a> |
 <a href='https://twitter.com/MCDramaLlama'>Twitter</a> |
 <a href='https://reddit.com/r/mcdramagen'>Subreddit</a>
 </body>
