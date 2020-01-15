@@ -89,4 +89,22 @@ The drama generator is spammed by %person
 %person says the %minecraftmob is %badadjective and should be replaced with the %minecraftmob
 %mod stops working on computers built with %computerpart%s
 Due to bad code, %mod now uses up to %powertwo%GB of RAM
-%mod:author renames %mod to %modname
+$mod:author adds %mod to %platform
+$mod:author adds config option to %mod for %feature
+$mod:author insists the %badthing caused by %mod is actually %mod's fault
+$mod:author makes %mod %badverbinfinitive in %pack
+$mod:author makes %mod %badverbinfinitive when in a pack with %mod
+$mod:author refuses to add config to %mod for %feature
+$mod:author refuses to fix %mod's incompatibility with %mod
+$mod:author refuses to port %mod to %runtime
+$mod:author refuses to support %mod
+$mod:author refuses to update %mod
+$mod:author removes %feature from %mod because of an interaction with %mod
+$mod:author rejects %person's pull request to %mod, which %prdeny
+$mod:author removes %feature from %mod
+$mod:author removes config from %mod for %feature
+$mod:author renames %mod to %modname
+$mod:author says the %badthing in %mod $badthing:is actually a feature
+$mod:author says the purpose of %mod is %modaction, just like in %modname
+$mod:author relicenses %mod under %license
+$mod:author reveals %mod was actually made with MCreator
