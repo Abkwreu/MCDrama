@@ -66,7 +66,7 @@ In response to %person's decision to %action, %person decides to %action
 $mod:author says %mod won't be updated to future versions
 Kasta says GregTech: New Horizons is superior to %pack
 %mod is being removed from %pack, due to $mod:modfeature being %badadjective
-%person forgets their GitHub password
+%modder forgets their GitHub password
 %discord is hacked
 $mod:author warns that future versions of %mod will be unsupported on computers with %powertwo%GB or less of RAM
 %person corrects %person’s grammar
@@ -109,3 +109,4 @@ $mod:author says the purpose of %mod is %modaction, just like in %modname
 $mod:author relicenses %mod under %license
 $mod:author reveals %mod was actually made with MCreator
 %modder releases their new mod, %modname, which adds $game:modfeature from %game
+%modder leaves Minecraft, claiming that %game is better.
