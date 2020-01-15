@@ -34,7 +34,7 @@
 %person wishes %modname would be released already
 %person wishes $mod:author would port %mod to %version
 %person leaves the server
-%person thinks $mod:author adds %feature to %mod
+%person thinks $mod:author should add %feature to %mod
 %person reveals they mod using MCreator
 $pack:author adds %mod to %pack
 $pack:author demands %person write %modname
@@ -50,6 +50,7 @@ in response to %person's decision to %action, %person decides to %action
 %person changes their nickname to "kasta but %kasta%"
 %person gets banned from %discord for %banreason
 %person creates a new trick about %mod
-%bot gets added to the Modded Minecraft discord.
+%bot bot gets added to the Modded Minecraft discord
 %admin bans %person
 %person starts playing %pack
+%person reveals they are from %country
