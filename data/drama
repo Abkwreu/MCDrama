@@ -78,7 +78,7 @@ $mod:author warns that future versions of %mod will be unsupported on computers 
 %pack gates %minecraftmechanic behind %mod
 %person suggests that Kasta should try %pack
 %pack gates %modthing %tupling behind a machine that uses %power
-%person makes %modname in 15 minutes, which %person had been working on for several days
+%person makes %modname in 15 minutes, which %modder had been working on for several days
 %person bans %person for liking %mod
 %person posts %badthing on /r/minecraft, gets %randomnumber upvotes
 %person posts screenshot of %mod, %reactor says "ew"
@@ -86,6 +86,6 @@ $mod:author warns that future versions of %mod will be unsupported on computers 
 %person asks if $mod:author can port %mod to %version
 %person asks to be added to the drama generator, not realizing they are already on the list
 The drama generator is spammed by %person
-%person says the %minecraftmob is overpowered and should be replaced with the %minecraftmob 
+%modder releases their new mod, the %minecraftmob mod
 %mod stops working on computers built with %computerpart%s
 Due to bad code, %mod now uses up to %powertwo%GB of RAM
