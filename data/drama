@@ -40,10 +40,10 @@ $pack:author adds %mod to %pack
 $pack:author demands %modder write the mod %modname
 $pack:author thinks $mod:author should rename %mod to %modname
 $server:author bans %person from %server
-an interaction between %mod and %mod causes %badthing
-if they reach their Patreon goal, %person will %action
-in a move to get %internetpoints, %person decides to %action
-in response to %person's decision to %action, %person decides to %action
+An interaction between %mod and %mod causes %badthing
+If they reach their Patreon goal, %person will %action
+In a move to get %internetpoints, %person decides to %action
+In response to %person's decision to %action, %person decides to %action
 %person says %person's opinion is bad
 %person bans %person from %community
 %person becomes a %color%name
@@ -89,3 +89,4 @@ The drama generator is spammed by %person
 %modder releases their new mod, the %minecraftmob mod
 %mod stops working on computers built with %computerpart%s
 Due to bad code, %mod now uses up to %powertwo%GB of RAM
+%modder releases ther new mod, the no more %minecraftfeature mod
