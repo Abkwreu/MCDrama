@@ -88,3 +88,4 @@ $mod:author warns that future versions of %mod will be unsupported on computers 
 The drama generator is spammed by %person
 %person says the %minecraftmob is overpowered and should be replaced with the %minecraftmob 
 %mod stops working on computers built with %computerpart%%s
+Due to bad code, %mod now uses up to %powertwo%%GB of RAM
