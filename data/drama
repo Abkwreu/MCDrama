@@ -19,7 +19,7 @@
 %person refuses to play %mod unless it has %feature
 %person refuses to support %mod
 %person refuses to support %mod because of %badthing
-%modder releases their new mod, %modname
+%person releases their new mod, %modname
 %person says %badthing $badthing:is not a problem
 %person says %mod belongs in %pack
 %person says %mod causes %badthing
@@ -37,13 +37,13 @@
 %person thinks $mod:author should add %feature to %mod
 %person reveals they mod using MCreator
 $pack:author adds %mod to %pack
-$pack:author demands %modder write the mod %modname
+$pack:author demands %person write %modname
 $pack:author thinks $mod:author should rename %mod to %modname
 $server:author bans %person from %server
-An interaction between %mod and %mod causes %badthing
-If they reach their Patreon goal, %person will %action
-In a move to get %internetpoints, %person decides to %action
-In response to %person's decision to %action, %person decides to %action
+an interaction between %mod and %mod causes %badthing
+if they reach their Patreon goal, %person will %action
+in a move to get %internetpoints, %person decides to %action
+in response to %person's decision to %action, %person decides to %action
 %person says %person's opinion is bad
 %person bans %person from %community
 %person becomes a %color%name
@@ -68,7 +68,7 @@ Kasta says GregTech: New Horizons is superior to %pack
 %mod is being removed from %pack, due to $mod:modfeature being overpowered
 %person forgets their GitHub password
 %discord is hacked
-$mod:author warns that future versions of %mod will be unsupported on computers with 16GB or less of RAM
+$mod:author warns that future versions of %mod will be unsupported on computers with %powertwo%GB or less of RAM
 %person corrects %person’s grammar
 %person posts drama generator memes%reaction
 %person claims that Minecraft runs best on %computerpart%s
@@ -78,15 +78,14 @@ $mod:author warns that future versions of %mod will be unsupported on computers 
 %pack gates %minecraftmechanic behind %mod
 %person suggests that Kasta should try %pack
 %pack gates %modthing %tupling behind a machine that uses %power
-%person makes %modname in 15 minutes, which %modder had been working on for several days
+%person makes %modname in 15 minutes, which %person had been working on for several days
 %person bans %person for liking %mod
 %person posts %badthing on /r/minecraft, gets %randomnumber upvotes
-%person posts screenshot of %mod, %reactor says "ew"
+%person posts screenshot of %mod, %person says ew
 %person makes %modaction mod using %license%%reacton
 %person asks if $mod:author can port %mod to %version
 %person asks to be added to the drama generator, not realizing they are already on the list
 The drama generator is spammed by %person
-%modder releases their new mod, the %minecraftmob mod
+%person says the %minecraftmob is overpowered and should be replaced with the %minecraftmob 
 %mod stops working on computers built with %computerpart%s
 Due to bad code, %mod now uses up to %powertwo%GB of RAM
-%modder releases ther new mod, the no more %minecraftfeature mod
