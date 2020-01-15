@@ -40,10 +40,10 @@ $pack:author adds %mod to %pack
 $pack:author demands %person write %modname
 $pack:author thinks $mod:author should rename %mod to %modname
 $server:author bans %person from %server
-an interaction between %mod and %mod causes %badthing
-if they reach their Patreon goal, %person will %action
-in a move to get %internetpoints, %person decides to %action
-in response to %person's decision to %action, %person decides to %action
+An interaction between %mod and %mod causes %badthing
+If they reach their Patreon goal, %person will %action
+In a move to get %internetpoints, %person decides to %action
+In response to %person's decision to %action, %person decides to %action
 %person says %person's opinion is bad
 %person bans %person from %community
 %person becomes a %color%name
@@ -81,7 +81,7 @@ $mod:author warns that future versions of %mod will be unsupported on computers 
 %person makes %modname in 15 minutes, which %modder had been working on for several days
 %person bans %person for liking %mod
 %person posts %badthing on /r/minecraft, gets %randomnumber upvotes
-%person posts screenshot of %mod, %person says ew
+%person posts screenshot of %mod, %person says "ew"
 %person makes %modaction mod using %license%%reacton
 %person asks if $mod:author can port %mod to %version
 %person asks to be added to the drama generator, not realizing they are already on the list
