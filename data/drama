@@ -71,7 +71,7 @@ Kasta says GregTech: New Horizons is superior to %pack
 $mod:author warns that future versions of %mod will be unsupported on computers with 16GB or less of RAM
 %person corrects %person’s grammar
 %person posts drama generator memes%reaction
-%person claims that Minecraft runs best on %computerpart%%s
+%person claims that Minecraft runs best on %computerpart%s
 %person says %minecraftmechanic is overpowered and should be removed
 %person gets a virus from adf.ly while downloading %mod, blames $mod:author
 %person posts a screenshot of %modpack%%reaction
@@ -87,5 +87,5 @@ $mod:author warns that future versions of %mod will be unsupported on computers 
 %person asks to be added to the drama generator, not realizing they are already on the list
 The drama generator is spammed by %person
 %person says the %minecraftmob is overpowered and should be replaced with the %minecraftmob 
-%mod stops working on computers built with %computerpart%%s
+%mod stops working on computers built with %computerpart%s
 Due to bad code, %mod now uses up to %powertwo%%GB of RAM
