@@ -6,12 +6,12 @@
 %mod now depends on %mod
 %person accidentally mentions @everyone on %discord
 %person breaks EULA, causing %person to leave %community
-%person creates a fork of %mod
-%person creates a fork of %mod with %feature
-%person creates a fork of %mod, citing its %badthing
-%person creates a fork of %mod, claiming that it is %badadjective
+%modder creates a fork of %mod
+%modder creates a fork of %mod with %feature
+%modder creates a fork of %mod, citing its %badthing
+%modder creates a fork of %mod, claiming that it is %badadjective
 %person decides to %action
-%person forks %mod because $mod:author decided to %action
+%modder forks %mod because $mod:author decided to %action
 %person is banned from %community
 %person is banned from %community for %badthing
 %person is pinged one too many times on %discord
@@ -19,7 +19,7 @@
 %person refuses to play %mod unless it has %feature
 %person refuses to support %mod
 %person refuses to support %mod because of %badthing
-%person releases their new mod, %modname
+%modder releases their new mod, %modname
 %person says %badthing $badthing:is not a problem
 %person says %mod belongs in %pack
 %person says %mod causes %badthing
@@ -35,7 +35,7 @@
 %person wishes $mod:author would port %mod to %version
 %person leaves the server
 %person thinks $mod:author should add %feature to %mod
-%person reveals they mod using MCreator
+%modder reveals they mod using MCreator
 $pack:author adds %mod to %pack
 $pack:author demands %person write %modname
 $pack:author thinks $mod:author should rename %mod to %modname
@@ -78,7 +78,7 @@ $mod:author warns that future versions of %mod will be unsupported on computers 
 %pack gates %minecraftmechanic behind %mod
 %person suggests that Kasta should try %pack
 %pack gates %modthing %tupling behind a machine that uses %power
-%person makes %modname in 15 minutes, which %person had been working on for several days
+%person makes %modname in 15 minutes, which %modder had been working on for several days
 %person bans %person for liking %mod
 %person posts %badthing on /r/minecraft, gets %randomnumber upvotes
 %person posts screenshot of %mod, %person says ew
@@ -86,6 +86,7 @@ $mod:author warns that future versions of %mod will be unsupported on computers 
 %person asks if $mod:author can port %mod to %version
 %person asks to be added to the drama generator, not realizing they are already on the list
 The drama generator is spammed by %person
-%person says the %minecraftmob is overpowered and should be replaced with the %minecraftmob 
+%person says the %minecraftmob is overpowered and should be replaced with the %minecraftmob
 %mod stops working on computers built with %computerpart%s
 Due to bad code, %mod now uses up to %powertwo%GB of RAM
+%mod:author renames %mod to %modname
