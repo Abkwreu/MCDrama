@@ -51,7 +51,7 @@ __END__
 <!doctype html>
 <html>
 <head>
-<title>MC Drama Generator</title>
+<title>Minecraft Mod Name Generator</title>
 <meta charset="utf-8">
 <meta name="description" content="<%= drama %>">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -103,8 +103,8 @@ a:hover {
 <div class='drama'><%= drama %></div>
 <a href='/'>Get more mod names!</a> <br>
 <a href='http://moddedmc-discord-drama.herokuapp.com/<%= version %>/<%= seed %>'></a> <br><br>
-<a href='https://github.com/4hrue2kd83f/MCDrama'></a> |
-<a href='https://twitter.com/MCDramaLlama'></a> |
+<a href='https://github.com/4hrue2kd83f/MCDrama'></a>
+<a href='https://twitter.com/MCDramaLlama'></a>
 <a href='https://reddit.com/r/mcdramagen'></a>
 </body>
 </html>
