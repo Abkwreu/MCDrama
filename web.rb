@@ -57,7 +57,7 @@ __END__
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#111111">
 
-<meta property="og:title" content="MC Drama Generator">
+<meta property="og:title" content="Minecraft Mod Name Generator">
 <meta property="og:type" content="website">
 <% if permalink %>
 <meta property="og:url" content="http://ftb-drama.herokuapp.com/<%= version %>/<%= seed %>">
@@ -103,8 +103,8 @@ a:hover {
 <div class='drama'><%= drama %></div>
 <a href='/'>Get more mod names!</a> <br>
 <a href='http://moddedmc-discord-drama.herokuapp.com/<%= version %>/<%= seed %>'></a> <br><br>
-<a href='https://github.com/4hrue2kd83f/MCDrama'>GitHub</a> |
-<a href='https://twitter.com/MCDramaLlama'>Twitter</a> |
-<a href='https://reddit.com/r/mcdramagen'>Subreddit</a>
+<a href='https://github.com/4hrue2kd83f/MCDrama'></a> |
+<a href='https://twitter.com/MCDramaLlama'></a> |
+<a href='https://reddit.com/r/mcdramagen'></a>
 </body>
 </html>
