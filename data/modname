@@ -13,6 +13,11 @@ Just Enough %modthings
 Diamond %modthings
 Emerald %modthings
 Obsidian %modthings
+FTB %modthings
+Ender %modthings
+Nether %modthings
+Vanilla %modthings
+%modthing Cakes
 %modthings: %modaction Edition
 %modaction 2: Electric %modthing%aloo
 %modthing %modthing %modthing
@@ -33,6 +38,6 @@ Hardcore %modaction
 Immersive %modaction
 Automatic %modaction
 No More %modaction
-%person's Mod
+%modder's Mod
 %mod 2: %modname
-The %wordupper Mod
+%mod 2: More $mod:modfeature
