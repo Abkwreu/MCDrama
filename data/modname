@@ -38,6 +38,7 @@ Hardcore %modaction
 Immersive %modaction
 Automatic %modaction
 No More %modaction
-%modder's Mod
+%modder's %modthings
 %mod 2: %modname
 %mod 2: More $mod:modfeature
+%mod but without $mod:modfeature
