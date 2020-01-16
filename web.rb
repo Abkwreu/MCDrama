@@ -104,7 +104,7 @@ a:hover {
 <a href='/'>Get more mod names!</a> <br>
 <a href='http://moddedmc-discord-drama.herokuapp.com/<%= version %>/<%= seed %>'></a> <br><br>
 <a href='https://github.com/4hrue2kd83f/MCDrama'></a>
-<a href='https://twitter.com/MCDramaLlama'></a>
+<a href='https://twitter.com/MCDramaLlama'></a>Made by 4hrue2kd83f
 <a href='https://reddit.com/r/mcdramagen'></a>
 </body>
 </html>
