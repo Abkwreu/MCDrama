@@ -1,54 +1,54 @@
-%modthing Expansion
-%modpower Expansion
-%modthing Tweaks
-%modthing%Craft
-%modthing%plus
-Advanced %modthings
-Extra %modthings
-Mine%modthing
-More %modthings
-Open%modthings
-Simple %modthings
-The %modthing Mod
-Just Enough %modthings
-Diamond %modthings
-Emerald %modthings
-Obsidian %modthings
-FTB %modthings
-Wooden %modthings
-Ender %modthings
-Nether %modthings
-Vanilla %modthings
-Infernal %modthings
-Draconic %modthings
-%modthing Cakes
-%modthings: %modaction Edition
-%modaction 2: Electric %modthing%aloo
-%modthing %modthing %modthing
-%modthings %modthings %modthings
-Double %modthing Triple %modthing
-%modthing %tupling
-%modthings to %modthings
-%modthings and %modthings
-Lucky %modthings
-Unlucky %modthings
-Faster %modaction
-Easy %modaction
-%modaction for %modthings
-%modthings for %modaction
-Hardcore %modaction
-%modthing %modaction
-%modaction %modthing
-Immersive %modaction
-Automatic %modaction
-No More %modaction
-%modder's %modthings
+%badadjective %modthings
 %mod 2: %modname
 %mod 2: More $mod:modfeature
 %mod but without $mod:modfeature
 %mod%: %power Edition
+%modaction %modthing
+%modaction 2: Electric %modthing%aloo
+%modaction for %modthings
+%modder's %modthings
+%modpower Expansion
+%modthing %modaction
+%modthing %modthing %modthing
+%modthing %tupling
+%modthing Cakes
+%modthing Expansion
+%modthing Tweaks
+%modthing%Craft
+%modthing%plus
+%modthings %modthings %modthings
+%modthings and %modthings
+%modthings for %modaction
+%modthings to %modthings
+%modthings: %modaction Edition
+Advanced %modthings
+Automatic %modaction
 Cursed %modthings
-Thaumic %modthings
-Not Enough %modthings
+Diamond %modthings
+Double %modthing Triple %modthing
+Draconic %modthings
+Easy %modaction
+Emerald %modthings
+Ender %modthings
+Extra %modthings
+FTB %modthings
+Faster %modaction
 Galactic %modthings
-%badadjective %modthings
+Hardcore %modaction
+Immersive %modaction
+Infernal %modthings
+Just Enough %modthings
+Lucky %modthings
+Mine%modthing
+More %modthings
+Nether %modthings
+No More %modaction
+Not Enough %modthings
+Obsidian %modthings
+Open%modthings
+Simple %modthings
+Thaumic %modthings
+The %modthing Mod
+Unlucky %modthings
+Vanilla %modthings
+Wooden %modthings
