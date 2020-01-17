@@ -14,9 +14,12 @@ Diamond %modthings
 Emerald %modthings
 Obsidian %modthings
 FTB %modthings
+Wooden %modthings
 Ender %modthings
 Nether %modthings
 Vanilla %modthings
+Infernal %modthings
+Draconic %modthings
 %modthing Cakes
 %modthings: %modaction Edition
 %modaction 2: Electric %modthing%aloo
