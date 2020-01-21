@@ -2,11 +2,14 @@
 %mod 2: %modname
 %mod 2: More $mod:modfeature
 %mod but without $mod:modfeature
+%mod%: %mod Edition
+%mod%: %modder Edition
 %mod%: %power Edition
 %modaction %modthing
 %modaction 2: Electric %modthing%aloo
 %modaction for %modthings
 %modder's %modthings
+%modname%: An Addon for %mod
 %modpower Expansion
 %modthing %modaction
 %modthing %modthing %modthing
@@ -14,15 +17,20 @@
 %modthing Cakes
 %modthing Expansion
 %modthing Tweaks
-%modthing%Craft
 %modthing%alacticraft
-%modthing%+
+%modthing%Craft
+%modthing%Tech
+%modthing%Tools
 %modthings %modthings %modthings
 %modthings and %modthings
+%modthings Construct
+%modthings for %mod
 %modthings for %modaction
 %modthings to %modthings
+%modthings%+
 %modthings: %modaction Edition
 Advanced %modthings
+Astral %modthings
 Automatic %modaction
 Cursed %modthings
 Diamond %modthings
@@ -32,9 +40,9 @@ Easy %modaction
 Emerald %modthings
 Ender %modthings
 Extra %modthings
-FTB %modname
-FTB %modthings
 Faster %modaction
+FTB %mod
+FTB %modthings
 Galactic %modthings
 Hardcore %modaction
 Immersive %modaction
@@ -50,11 +58,11 @@ Not Enough %modthings
 Obsidian %modthings
 Open%modthings
 Simple %modthings
+Tele%modthings
 Thaumic %modthings
 The %modthing Mod
+Thermal %modthings
+Tinkers %modthings
 Unlucky %modthings
 Vanilla %modthings
 Wooden %modthings
-Tele%modthings
-Tinkers %modthings
-%modthing%Tools
