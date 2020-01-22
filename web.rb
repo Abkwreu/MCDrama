@@ -1,7 +1,7 @@
 
 require 'sinatra'
 require 'json'
-require './draminate'
+require './modname'
 
 get '/txt' do
 	Random.srand
