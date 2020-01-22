@@ -1,4 +1,4 @@
-require './draminate'
+require './modname'
 
 count = ARGV[0]? ARGV[0].to_i : 10
 search = Regexp.new(ARGV[1]) if ARGV[1]
@@ -9,7 +9,7 @@ if search
   (count * 1000).times do
 	seed = Random.new_seed
 	Random.srand(seed)
-	drama = draminate
+	drama = modname
 	if drama =~ search
 	  puts "[#{seed.to_s(36)}] #{drama}"
 	  found += 1
@@ -22,7 +22,7 @@ else
   count.times do
 	seed = Random.new_seed
 	Random.srand(seed)
-	drama = draminate
+	drama = modname
 	puts "[#{seed.to_s(36)}] #{drama}"
   end
 end

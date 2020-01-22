@@ -1,4 +1,4 @@
-require './draminate'
+require './modname'
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -10,7 +10,7 @@ end
 
 seed = Random.new_seed
 Random.srand(seed)
-drama = draminate
+drama = modname
 
 tweet = "#{drama} https://ftb-drama.herokuapp.com/#{current_version}/#{seed.to_s(36)}"
 

@@ -5,44 +5,44 @@ require './modname'
 
 get '/txt' do
 	Random.srand
-	draminate
+	modname
 end
 
 get '/txt/:version/:seed' do
 	Random.srand(params[:seed].to_i(36))
-	draminate params[:version]
+	modname params[:version]
 end
 
 get '/json' do
 	seed = Random.new_seed
 	version = current_version
 	Random.srand(seed)
-	{seed: seed.to_s(36), drama: draminate, version: version}.to_json
+	{seed: seed.to_s(36), drama: modname, version: version}.to_json
 end
 
 get '/json/:version/:seed' do
 	seed = params[:seed].to_i(36)
 	Random.srand(seed)
-	{seed: seed.to_s(36), drama: draminate(params[:version]), version: params[:version]}.to_json
+	{seed: seed.to_s(36), drama: modname(params[:version]), version: params[:version]}.to_json
 end
 
 get '/' do
 	seed = Random.new_seed
 	Random.srand(seed)
-	erb :drama, locals: {seed: seed.to_s(36), version: current_version, drama: draminate, permalink: false}
+	erb :drama, locals: {seed: seed.to_s(36), version: current_version, drama: modname, permalink: false}
 end
 
 get '/:version/:seed' do
 	seed = params[:seed].to_i(36)
 	Random.srand(seed)
-	erb :drama, locals: {seed: seed.to_s(36), drama: draminate(params[:version]), version: params[:version], permalink: true}
+	erb :drama, locals: {seed: seed.to_s(36), drama: modname(params[:version]), version: params[:version], permalink: true}
 end
 
 get '/:legacy_seed' do
 	seed = params[:legacy_seed].to_i
 	version = '6b51081190f6f87d32aa32a52e3c273a7798cebf' # The last version to use this seed format.
 	Random.srand(seed)
-	erb :drama, locals: {seed: seed.to_s(36), drama: draminate(version), version: version, permalink: true}
+	erb :drama, locals: {seed: seed.to_s(36), drama: modname(version), version: version, permalink: true}
 end
 
 
