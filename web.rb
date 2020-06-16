@@ -52,13 +52,13 @@ __END__
 <!doctype html>
 <html>
 <head>
-<title>Minecraft Mod Name Generator</title>
+<title>JetPunk Drama Generator</title>
 <meta charset="utf-8">
 <meta name="description" content="<%= drama %>">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#111111">
 
-<meta property="og:title" content="Minecraft Mod Name Generator">
+<meta property="og:title" content="JetPunk Drama Generator">
 <meta property="og:type" content="website">
 <% if permalink %>
 <meta property="og:url" content="http://ftb-drama.herokuapp.com/<%= version %>/<%= seed %>">
@@ -102,9 +102,9 @@ a:hover {
 }
 </style>
 <div class='drama'><%= drama %></div>
-<a href='/'>Get more mod names!</a> <br>
-<a href='/d67ee8/<%= seed %>'>Permalink</a><br><br>
-<a href='https://github.com/4hrue2kd83f/MCDrama/tree/modname'></a>Made by 4hrue2kd83f
+<a href='/'>Get more drama!</a> <br>
+<a href='/d67ee8/<%= seed %>'></a><br><br>
+<a href='https://github.com/4hrue2kd83f/MCDrama/tree/modname'></a>Made by 4hrue
 <a href='https://twitter.com/MCDramaLlama'></a>
 <a href='https://reddit.com/r/mcdramagen'></a>
 </body>
