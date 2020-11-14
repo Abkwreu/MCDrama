@@ -35,9 +35,11 @@
 %person wishes %person's quiz on %quiztopic would be released already
 %person spams in %channel
 %person thinks %country should not be considered a country
+%person thinks %questionablecountry should be considered a country
 %person translates %quiz to %language
 %person translates %quiz to %language, gains %largenumber takes
 %person thinks a %language channel should be added to %discord
+%person thinks a channel about %noun should be added to %discord
 %person changes their Discord profile picture to %image
 In response to %person's decision to %action, %person decides to %action
 In a move to get %internetpoints, %person decides to %action
