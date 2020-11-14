@@ -1,4 +1,5 @@
 %noun
+%person
 %political
 %ancientcountry
 modern-day countries of %ancientcountry
@@ -11,3 +12,4 @@ the history of %ancientcountry
 %country and %country
 %state and %state
 %country, %country, and %country
+%landform in %political
