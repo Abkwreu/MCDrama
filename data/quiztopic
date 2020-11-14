@@ -1,7 +1,13 @@
 %noun
-%country
+%political
+%ancientcountry
+modern-day countries of %ancientcountry
 cities in %country
+cities in %ancientcountry
+cities in %political
 subdivisions of %country
 the history of %country
+the history of %ancient country
 %country and %country
+%state and %state
 %country, %country, and %country
