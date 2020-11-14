@@ -12,6 +12,7 @@
 %person creates a copy of %quiz
 %person creates a copy of %quiz, gains %largenumber takes
 %person creates a copy of %quiz on Sporcle
+%person creates a copy of %person's quiz
 %person adds a comment to the comment section of %quiz
 %person adds a comment to the comment section of %quiz, gains %smallnumber likes
 %person%'s quiz on %quiztopic is featured on JetPunk
