@@ -2,8 +2,8 @@
 , to the dismay of %reactor
 . %reactor rages
 . %person gains a lot of %internetpoints
-. %person gets banned from %community
-. %person gets unbanned from %community
+%reaction. %person:mentioned gets banned from %community
+%reaction. %person:mentioned gets banned from %community
 . %person loses a lot of %internetpoints
 . Argument ensues on %community
 . As a result, %drama
