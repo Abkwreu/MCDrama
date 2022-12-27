@@ -9,9 +9,17 @@ cities in %country
 cities in %ancientcountry
 cities in %political
 subdivisions of %country
+second-level subdivisions of %country
+third-level subdivisions of %country
+fourth-level subdivisions of %country
 the history of %country
 the history of %ancientcountry
 %country and %country
 %state and %state
 %country, %country, and %country
 %landform in %political
+modern-day countries of %ancientcountry that start with %letter
+cities in %country that start with %letter
+cities in %ancientcountry that start with %letter
+cities in %political that start with %letter
+subdivisions of %country that start with %letter
