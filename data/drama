@@ -11,7 +11,6 @@
 %person creates a quiz on %quiztopic, gains %largenumber takes
 %person creates a copy of %quiz
 %person creates a copy of %quiz, gains %largenumber takes
-%person creates a copy of %quiz on Sporcle
 %person creates a copy of %person's quiz
 %person adds a comment to the comment section of %quiz
 %person adds a comment to the comment section of %quiz, gains %smallnumber likes
@@ -44,3 +43,5 @@
 %person changes their Discord profile picture to %image
 In response to %person's decision to %action, %person decides to %action
 In a move to get %internetpoints, %person decides to %action
+%person and %person play %game
+%person, %person, and %person play %game
