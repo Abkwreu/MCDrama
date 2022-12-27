@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
 ruby "~> 3.1.3"
-gem 'sinatra'
-gem 'rackup'
-gem 'webrick'
+gem 'sinatra', '>3.0'
+gem 'puma'
