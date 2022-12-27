@@ -105,7 +105,5 @@ a:hover {
 <a href='/'>Get more drama!</a> <br>
 <a href='/d67ee8/<%= seed %>'></a><br><br>
 <a href='https://github.com/4hrue2kd83f/MCDrama/tree/modname'></a>Made by 4hrue
-<a href='https://twitter.com/MCDramaLlama'></a>
-<a href='https://reddit.com/r/mcdramagen'></a>
 </body>
 </html>
